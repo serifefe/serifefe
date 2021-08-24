@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serifefe
-- 👀 I’m interested in writing
+- 👀 I’m interested in writing 
 - 🌱 I’m currently learning Python
 - 📫 for reach to me efemehmetefe176@gmail.com
 
